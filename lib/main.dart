@@ -1,5 +1,6 @@
 import 'package:beauty_app/view/base_page/view/base_page_view.dart';
 import 'package:beauty_app/view/product_detail/view/product_detail_view.dart';
+
 import 'view/home/view/home_view.dart';
 import 'view/products/view/products_view.dart';
 import 'package:flutter/material.dart';
